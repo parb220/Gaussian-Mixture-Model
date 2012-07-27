@@ -1,0 +1,3 @@
+*.o
+gaussian_mixture_chain.*
+gaussian_mixture_equal_energy
